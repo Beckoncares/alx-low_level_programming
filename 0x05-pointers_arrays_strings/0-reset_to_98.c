@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * Write a function dt takes a pointer to an int as par n update to 98
+ * Write a function dt takes a pointer to an int as 
+ * and  update to 98
  *
  */
 
