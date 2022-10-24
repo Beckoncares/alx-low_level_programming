@@ -1,13 +1,12 @@
 #include "main.h"
-
 /**
- * Write a function dt takes a pointer to an int as 
- * and  update to 98
- *
- */
+*  reset_to_98 - and take the pointer and updates the value to 98
+* 
+*  @n: int to check
+*  Return: 0
+*/
 
-void reset_to_98(int *n)
+void reset_to_98(int *n);
 {
-        *n = 98;
+    *n = 98;
 }
-
