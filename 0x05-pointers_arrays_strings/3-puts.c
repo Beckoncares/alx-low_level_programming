@@ -1,12 +1,13 @@
 #include "main.h"
 
+void _puts(char *);
+
 /**
  * _puts - prints a string, followed by a new line,
  * @str: pointer to the string to print
  * Return: void
  */
-
-void _puts(char *str)
+int main(void)
 {
 	int i = 0;
 
